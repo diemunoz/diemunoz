@@ -2,6 +2,7 @@
 ## I’m currently work in **AppZone** as a web developer 🧑‍💻
 
 ## 🎖️ SKILLS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diemunoz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ### Front:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=000000)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
