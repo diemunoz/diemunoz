@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Muñoz</h1>
-<h3 align="center">I’m currently work in **AppZone** as a web developer 🧑‍💻 </h3>
+<h3 align="center">I’m currently work in **E&D Consulting** as a web developer 🧑‍💻 </h3>
 
 ## 🎖️ SKILLS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diemunoz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
